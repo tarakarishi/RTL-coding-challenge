@@ -1,0 +1,8 @@
+# Icarus Verilog output
+sim.out
+
+# Common simulation/build files
+*.out
+*.vcd
+*.log
+*.o
